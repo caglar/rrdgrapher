@@ -1,0 +1,11 @@
+A basic graphing tool for round robin database files.
+
+TO RUN:
+  * You can run by python rrd_grapher.py rrd_file_path
+  * The png file will be created at the same directory of the RRD file
+  * On some systems a libpng error may occure. But you can simply ignore this error.
+
+TODO:
+  Add more functionality like exporting in other formats, some statistics from the RRD file
+  ...etc.
+
